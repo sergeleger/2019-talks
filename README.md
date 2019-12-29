@@ -33,7 +33,7 @@ Please submit a PR with your slides in a subdirectory named like this:
 | Daniel Marti       | [Optimizing Go Code Without a Blindfold](DanielMarti-OptimizingGoCodeWithoutABlindfold)                                            | [Video](https://www.youtube.com/watch?v=oE_vm7KeV_E) |
 | Elena Morozova     | [How Uber Goes](ElenaMorozova-HowUberGoes)                                                                                         | [Video](https://www.youtube.com/watch?v=nLskCRJOdxM) |
 | Mike Seplowitz     | Tracking Inter-process Dependencies                                                                                                | [Video](https://www.youtube.com/watch?v=Um3l_pr3dzw) |
-| Mat Ryer           | [How I Write HTTP Web Services after Eight Years](Mat Ryer - How I build HTTP services after eight years)                          | [Video](https://www.youtube.com/watch?v=rWBSMsLG8po) |
+| Mat Ryer           | [How I Write HTTP Web Services after Eight Years](Mat%20Ryer%20-%20How%20I%20build%20HTTP%20services%20after%20eight%20years)      | [Video](https://www.youtube.com/watch?v=rWBSMsLG8po) |
 | Ron Evans          | [Small is Going Big: Go on Microcontrollers](RonEvans-GoOnMicrocontrollers)                                                        | [Video](https://www.youtube.com/watch?v=EiB9ZVrvrz0) |
 | Johnny Boursiquot  | [What Got Us Here, Won't Get Us There](JohnnyBoursiquot-ClosingKeynote)                                                            | [Video](https://www.youtube.com/watch?v=_Pc0bzz4-gM) |
 | Marwan Sulaiman    | [Handling Go Errors](MarwanSulaiman-HandlingGoErrors)                                                                              | [Video](https://www.youtube.com/watch?v=4WIhhzTTd0Y) |
